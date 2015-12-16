@@ -21,7 +21,7 @@ int a,b,c;
 		
 		printf("MODULO\n");
 		c=a%b;
-		printf("Il modulo %d % %d e' uguale a % %d\n", a, b, c);
+		printf("Il modulo %d % %d e' uguale a %%d\n", a, b, c);
 
 		printf("PRODOTTO\n");
 		c=a*b;
